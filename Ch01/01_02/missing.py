@@ -5,6 +5,8 @@ import pandas as pd
 df = pd.read_csv('cart.csv', parse_dates=['date'])
 df
 
+#missing data analysis in python.
+
 # %%
 df['amount'].astype('Int32')
 
