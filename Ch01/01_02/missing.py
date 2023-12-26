@@ -1,6 +1,6 @@
 # %%
 import pandas as pd
-#sa
+#sajfa
 # %%
 df = pd.read_csv('cart.csv', parse_dates=['date'])
 df
